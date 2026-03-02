@@ -16,4 +16,6 @@ Languages: Python,Java,C,javascript
 
 Machine Learning: PyTorch, Pandas, NumPy, Matplotlib
 
+Deep Learning: Neural Networks(MLP,ResNet,WaveNet,SiameseNN),Transformers,Diffusion
+
 Domain Focus: Representation Learning, Generative Models, Bioinformatics
